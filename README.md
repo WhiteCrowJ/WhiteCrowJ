@@ -30,4 +30,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/WhiteCrowJ">WhiteCrowJ</a></i></p>
+
